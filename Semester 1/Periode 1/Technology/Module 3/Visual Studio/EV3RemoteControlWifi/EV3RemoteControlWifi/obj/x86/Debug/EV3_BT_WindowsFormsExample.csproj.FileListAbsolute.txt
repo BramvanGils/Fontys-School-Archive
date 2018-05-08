@@ -1,0 +1,13 @@
+C:\Users\reneb\Documents\Visual Studio 2015\Projects\EV3 Bluetooth WindowsFormsExample\EV3_BT_WindowsFormsExample\bin\Debug\EV3_BT_WindowsFormsExample.exe
+C:\Users\reneb\Documents\Visual Studio 2015\Projects\EV3 Bluetooth WindowsFormsExample\EV3_BT_WindowsFormsExample\bin\Debug\EV3_BT_WindowsFormsExample.pdb
+C:\Users\reneb\Documents\Visual Studio 2015\Projects\EV3 Bluetooth WindowsFormsExample\EV3_BT_WindowsFormsExample\bin\Debug\EV3MessengerLib.dll
+C:\Users\reneb\Documents\Visual Studio 2015\Projects\EV3 Bluetooth WindowsFormsExample\EV3_BT_WindowsFormsExample\bin\Debug\EV3MessengerLib.pdb
+C:\Users\reneb\Documents\Visual Studio 2015\Projects\EV3 Bluetooth WindowsFormsExample\EV3_BT_WindowsFormsExample\bin\Debug\EV3MessengerLib.xml
+C:\Users\reneb\Documents\Visual Studio 2015\Projects\EV3 Bluetooth WindowsFormsExample\EV3_BT_WindowsFormsExample\obj\x86\Debug\EV3_BT_WindowsFormsExample.csprojResolveAssemblyReference.cache
+C:\Users\reneb\Documents\Visual Studio 2015\Projects\EV3 Bluetooth WindowsFormsExample\EV3_BT_WindowsFormsExample\obj\x86\Debug\EV3_BT_WindowsFormsExample.Mainform.resources
+C:\Users\reneb\Documents\Visual Studio 2015\Projects\EV3 Bluetooth WindowsFormsExample\EV3_BT_WindowsFormsExample\obj\x86\Debug\EV3_BT_WindowsFormsExample.Properties.Resources.resources
+C:\Users\reneb\Documents\Visual Studio 2015\Projects\EV3 Bluetooth WindowsFormsExample\EV3_BT_WindowsFormsExample\obj\x86\Debug\EV3_BT_WindowsFormsExample.csproj.GenerateResource.Cache
+C:\Users\reneb\Documents\Visual Studio 2015\Projects\EV3 Bluetooth WindowsFormsExample\EV3_BT_WindowsFormsExample\obj\x86\Debug\EV3_BT_WindowsFormsExample.exe
+C:\Users\reneb\Documents\Visual Studio 2015\Projects\EV3 Bluetooth WindowsFormsExample\EV3_BT_WindowsFormsExample\obj\x86\Debug\EV3_BT_WindowsFormsExample.pdb
+C:\Users\reneb\Documents\Visual Studio 2015\Projects\EV3RemoteControl\EV3_BT_WindowsFormsExample\obj\x86\Debug\EV3_BT_WindowsFormsExample.exe
+C:\Users\reneb\Documents\Visual Studio 2015\Projects\EV3RemoteControl\EV3_BT_WindowsFormsExample\obj\x86\Debug\EV3_BT_WindowsFormsExample.pdb
