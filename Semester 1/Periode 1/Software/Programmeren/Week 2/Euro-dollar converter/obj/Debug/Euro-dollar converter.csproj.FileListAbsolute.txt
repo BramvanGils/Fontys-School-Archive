@@ -1,0 +1,10 @@
+C:\Users\Bramv\source\repos\OIS11 Week 2\Euro-dollar converter\bin\Debug\Euro-dollar converter.exe.config
+C:\Users\Bramv\source\repos\OIS11 Week 2\Euro-dollar converter\bin\Debug\Euro-dollar converter.exe
+C:\Users\Bramv\source\repos\OIS11 Week 2\Euro-dollar converter\bin\Debug\Euro-dollar converter.pdb
+C:\Users\Bramv\source\repos\OIS11 Week 2\Euro-dollar converter\obj\Debug\Euro-dollar converter.csprojResolveAssemblyReference.cache
+C:\Users\Bramv\source\repos\OIS11 Week 2\Euro-dollar converter\obj\Debug\Euro_dollar_converter.Form1.resources
+C:\Users\Bramv\source\repos\OIS11 Week 2\Euro-dollar converter\obj\Debug\Euro_dollar_converter.Properties.Resources.resources
+C:\Users\Bramv\source\repos\OIS11 Week 2\Euro-dollar converter\obj\Debug\Euro-dollar converter.csproj.GenerateResource.Cache
+C:\Users\Bramv\source\repos\OIS11 Week 2\Euro-dollar converter\obj\Debug\Euro-dollar converter.csproj.CoreCompileInputs.cache
+C:\Users\Bramv\source\repos\OIS11 Week 2\Euro-dollar converter\obj\Debug\Euro-dollar converter.exe
+C:\Users\Bramv\source\repos\OIS11 Week 2\Euro-dollar converter\obj\Debug\Euro-dollar converter.pdb

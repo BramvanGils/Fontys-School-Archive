@@ -1,0 +1,9 @@
+C:\Users\Bramv\source\repos\OIS11 Week 3\Hallo jij!\bin\Debug\Hallo jij!.exe.config
+C:\Users\Bramv\source\repos\OIS11 Week 3\Hallo jij!\bin\Debug\Hallo jij!.exe
+C:\Users\Bramv\source\repos\OIS11 Week 3\Hallo jij!\bin\Debug\Hallo jij!.pdb
+C:\Users\Bramv\source\repos\OIS11 Week 3\Hallo jij!\obj\Debug\Hallo_jij_.Form1.resources
+C:\Users\Bramv\source\repos\OIS11 Week 3\Hallo jij!\obj\Debug\Hallo_jij_.Properties.Resources.resources
+C:\Users\Bramv\source\repos\OIS11 Week 3\Hallo jij!\obj\Debug\Hallo jij!.csproj.GenerateResource.Cache
+C:\Users\Bramv\source\repos\OIS11 Week 3\Hallo jij!\obj\Debug\Hallo jij!.csproj.CoreCompileInputs.cache
+C:\Users\Bramv\source\repos\OIS11 Week 3\Hallo jij!\obj\Debug\Hallo jij!.exe
+C:\Users\Bramv\source\repos\OIS11 Week 3\Hallo jij!\obj\Debug\Hallo jij!.pdb

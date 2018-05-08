@@ -1,0 +1,10 @@
+C:\Users\Bramv\source\repos\OIS11 Week 6\Weerstand\bin\Debug\Weerstand.exe.config
+C:\Users\Bramv\source\repos\OIS11 Week 6\Weerstand\bin\Debug\Weerstand.exe
+C:\Users\Bramv\source\repos\OIS11 Week 6\Weerstand\bin\Debug\Weerstand.pdb
+C:\Users\Bramv\source\repos\OIS11 Week 6\Weerstand\obj\Debug\Weerstand.csprojResolveAssemblyReference.cache
+C:\Users\Bramv\source\repos\OIS11 Week 6\Weerstand\obj\Debug\Weerstand.Form1.resources
+C:\Users\Bramv\source\repos\OIS11 Week 6\Weerstand\obj\Debug\Weerstand.Properties.Resources.resources
+C:\Users\Bramv\source\repos\OIS11 Week 6\Weerstand\obj\Debug\Weerstand.csproj.GenerateResource.Cache
+C:\Users\Bramv\source\repos\OIS11 Week 6\Weerstand\obj\Debug\Weerstand.csproj.CoreCompileInputs.cache
+C:\Users\Bramv\source\repos\OIS11 Week 6\Weerstand\obj\Debug\Weerstand.exe
+C:\Users\Bramv\source\repos\OIS11 Week 6\Weerstand\obj\Debug\Weerstand.pdb

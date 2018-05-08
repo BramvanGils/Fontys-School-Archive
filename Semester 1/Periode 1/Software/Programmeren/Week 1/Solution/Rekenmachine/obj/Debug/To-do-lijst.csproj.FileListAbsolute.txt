@@ -1,0 +1,9 @@
+C:\Users\Bramv\Google Drive\School\Software\Programmeren\Week 1\Solution\Rekenmachine\bin\Debug\Rekenmachine.exe.config
+C:\Users\Bramv\Google Drive\School\Software\Programmeren\Week 1\Solution\Rekenmachine\bin\Debug\Rekenmachine.exe
+C:\Users\Bramv\Google Drive\School\Software\Programmeren\Week 1\Solution\Rekenmachine\bin\Debug\Rekenmachine.pdb
+C:\Users\Bramv\Google Drive\School\Software\Programmeren\Week 1\Solution\Rekenmachine\obj\Debug\Rekenmachine.Form1.resources
+C:\Users\Bramv\Google Drive\School\Software\Programmeren\Week 1\Solution\Rekenmachine\obj\Debug\Rekenmachine.Properties.Resources.resources
+C:\Users\Bramv\Google Drive\School\Software\Programmeren\Week 1\Solution\Rekenmachine\obj\Debug\To-do-lijst.csproj.GenerateResource.Cache
+C:\Users\Bramv\Google Drive\School\Software\Programmeren\Week 1\Solution\Rekenmachine\obj\Debug\To-do-lijst.csproj.CoreCompileInputs.cache
+C:\Users\Bramv\Google Drive\School\Software\Programmeren\Week 1\Solution\Rekenmachine\obj\Debug\Rekenmachine.exe
+C:\Users\Bramv\Google Drive\School\Software\Programmeren\Week 1\Solution\Rekenmachine\obj\Debug\Rekenmachine.pdb

@@ -1,0 +1,10 @@
+C:\Users\Bramv\source\repos\OIS11 Week 6\De drie Vierkanten\bin\Debug\De drie Vierkanten.exe.config
+C:\Users\Bramv\source\repos\OIS11 Week 6\De drie Vierkanten\bin\Debug\De drie Vierkanten.exe
+C:\Users\Bramv\source\repos\OIS11 Week 6\De drie Vierkanten\bin\Debug\De drie Vierkanten.pdb
+C:\Users\Bramv\source\repos\OIS11 Week 6\De drie Vierkanten\obj\Debug\De drie Vierkanten.csprojResolveAssemblyReference.cache
+C:\Users\Bramv\source\repos\OIS11 Week 6\De drie Vierkanten\obj\Debug\De_drie_Vierkanten.Form1.resources
+C:\Users\Bramv\source\repos\OIS11 Week 6\De drie Vierkanten\obj\Debug\De_drie_Vierkanten.Properties.Resources.resources
+C:\Users\Bramv\source\repos\OIS11 Week 6\De drie Vierkanten\obj\Debug\De drie Vierkanten.csproj.GenerateResource.Cache
+C:\Users\Bramv\source\repos\OIS11 Week 6\De drie Vierkanten\obj\Debug\De drie Vierkanten.csproj.CoreCompileInputs.cache
+C:\Users\Bramv\source\repos\OIS11 Week 6\De drie Vierkanten\obj\Debug\De drie Vierkanten.exe
+C:\Users\Bramv\source\repos\OIS11 Week 6\De drie Vierkanten\obj\Debug\De drie Vierkanten.pdb

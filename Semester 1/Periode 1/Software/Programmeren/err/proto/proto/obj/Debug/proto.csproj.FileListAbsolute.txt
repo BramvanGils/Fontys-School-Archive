@@ -1,0 +1,10 @@
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\err\proto\proto\bin\Debug\proto.exe.config
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\err\proto\proto\bin\Debug\proto.exe
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\err\proto\proto\bin\Debug\proto.pdb
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\err\proto\proto\obj\Debug\proto.csprojResolveAssemblyReference.cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\err\proto\proto\obj\Debug\proto.Form1.resources
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\err\proto\proto\obj\Debug\proto.Properties.Resources.resources
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\err\proto\proto\obj\Debug\proto.csproj.GenerateResource.Cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\err\proto\proto\obj\Debug\proto.csproj.CoreCompileInputs.cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\err\proto\proto\obj\Debug\proto.exe
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\err\proto\proto\obj\Debug\proto.pdb

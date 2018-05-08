@@ -1,0 +1,10 @@
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 7\Faculteit\bin\Debug\Faculteit.exe.config
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 7\Faculteit\bin\Debug\Faculteit.exe
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 7\Faculteit\bin\Debug\Faculteit.pdb
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 7\Faculteit\obj\Debug\Faculteit.csprojResolveAssemblyReference.cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 7\Faculteit\obj\Debug\Faculteit.Form1.resources
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 7\Faculteit\obj\Debug\Faculteit.Properties.Resources.resources
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 7\Faculteit\obj\Debug\Faculteit.csproj.GenerateResource.Cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 7\Faculteit\obj\Debug\Faculteit.csproj.CoreCompileInputs.cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 7\Faculteit\obj\Debug\Faculteit.exe
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 7\Faculteit\obj\Debug\Faculteit.pdb

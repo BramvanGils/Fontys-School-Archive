@@ -1,0 +1,10 @@
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 7\Reversi\bin\Debug\Reversi.exe.config
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 7\Reversi\bin\Debug\Reversi.exe
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 7\Reversi\bin\Debug\Reversi.pdb
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 7\Reversi\obj\Debug\Reversi.Form1.resources
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 7\Reversi\obj\Debug\Reversi.Properties.Resources.resources
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 7\Reversi\obj\Debug\Reversi.csproj.GenerateResource.Cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 7\Reversi\obj\Debug\Reversi.csproj.CoreCompileInputs.cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 7\Reversi\obj\Debug\Reversi.exe
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 7\Reversi\obj\Debug\Reversi.pdb
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 7\Reversi\obj\Debug\Reversi.csprojResolveAssemblyReference.cache

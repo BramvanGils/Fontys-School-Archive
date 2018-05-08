@@ -1,0 +1,10 @@
+C:\Users\Bramv\source\repos\OIS11 Week 3\Calorie-tracker\bin\Debug\Calorie-tracker.exe.config
+C:\Users\Bramv\source\repos\OIS11 Week 3\Calorie-tracker\bin\Debug\Calorie-tracker.exe
+C:\Users\Bramv\source\repos\OIS11 Week 3\Calorie-tracker\bin\Debug\Calorie-tracker.pdb
+C:\Users\Bramv\source\repos\OIS11 Week 3\Calorie-tracker\obj\Debug\Calorie-tracker.csprojResolveAssemblyReference.cache
+C:\Users\Bramv\source\repos\OIS11 Week 3\Calorie-tracker\obj\Debug\Calorie_tracker.Form1.resources
+C:\Users\Bramv\source\repos\OIS11 Week 3\Calorie-tracker\obj\Debug\Calorie_tracker.Properties.Resources.resources
+C:\Users\Bramv\source\repos\OIS11 Week 3\Calorie-tracker\obj\Debug\Calorie-tracker.csproj.GenerateResource.Cache
+C:\Users\Bramv\source\repos\OIS11 Week 3\Calorie-tracker\obj\Debug\Calorie-tracker.csproj.CoreCompileInputs.cache
+C:\Users\Bramv\source\repos\OIS11 Week 3\Calorie-tracker\obj\Debug\Calorie-tracker.exe
+C:\Users\Bramv\source\repos\OIS11 Week 3\Calorie-tracker\obj\Debug\Calorie-tracker.pdb

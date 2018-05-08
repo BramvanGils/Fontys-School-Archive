@@ -1,0 +1,9 @@
+C:\Users\Bramv\source\repos\OIS11 Week 3\Haxor\bin\Debug\Haxor.exe.config
+C:\Users\Bramv\source\repos\OIS11 Week 3\Haxor\bin\Debug\Haxor.exe
+C:\Users\Bramv\source\repos\OIS11 Week 3\Haxor\bin\Debug\Haxor.pdb
+C:\Users\Bramv\source\repos\OIS11 Week 3\Haxor\obj\Debug\Haxor.Form1.resources
+C:\Users\Bramv\source\repos\OIS11 Week 3\Haxor\obj\Debug\Haxor.Properties.Resources.resources
+C:\Users\Bramv\source\repos\OIS11 Week 3\Haxor\obj\Debug\Haxor.csproj.GenerateResource.Cache
+C:\Users\Bramv\source\repos\OIS11 Week 3\Haxor\obj\Debug\Haxor.csproj.CoreCompileInputs.cache
+C:\Users\Bramv\source\repos\OIS11 Week 3\Haxor\obj\Debug\Haxor.exe
+C:\Users\Bramv\source\repos\OIS11 Week 3\Haxor\obj\Debug\Haxor.pdb

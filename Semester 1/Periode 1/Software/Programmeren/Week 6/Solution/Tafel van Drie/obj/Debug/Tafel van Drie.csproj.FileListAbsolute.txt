@@ -1,0 +1,20 @@
+C:\Users\Bramv\source\repos\OIS11 Week 6\Tafel van Drie\bin\Debug\Tafel van Drie.exe.config
+C:\Users\Bramv\source\repos\OIS11 Week 6\Tafel van Drie\bin\Debug\Tafel van Drie.exe
+C:\Users\Bramv\source\repos\OIS11 Week 6\Tafel van Drie\bin\Debug\Tafel van Drie.pdb
+C:\Users\Bramv\source\repos\OIS11 Week 6\Tafel van Drie\obj\Debug\Tafel van Drie.csprojResolveAssemblyReference.cache
+C:\Users\Bramv\source\repos\OIS11 Week 6\Tafel van Drie\obj\Debug\Tafel_van_Drie.Form1.resources
+C:\Users\Bramv\source\repos\OIS11 Week 6\Tafel van Drie\obj\Debug\Tafel_van_Drie.Properties.Resources.resources
+C:\Users\Bramv\source\repos\OIS11 Week 6\Tafel van Drie\obj\Debug\Tafel van Drie.csproj.GenerateResource.Cache
+C:\Users\Bramv\source\repos\OIS11 Week 6\Tafel van Drie\obj\Debug\Tafel van Drie.csproj.CoreCompileInputs.cache
+C:\Users\Bramv\source\repos\OIS11 Week 6\Tafel van Drie\obj\Debug\Tafel van Drie.exe
+C:\Users\Bramv\source\repos\OIS11 Week 6\Tafel van Drie\obj\Debug\Tafel van Drie.pdb
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 6\Solution\Tafel van Drie\bin\Debug\Tafel van Drie.exe.config
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 6\Solution\Tafel van Drie\bin\Debug\Tafel van Drie.exe
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 6\Solution\Tafel van Drie\bin\Debug\Tafel van Drie.pdb
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 6\Solution\Tafel van Drie\obj\Debug\Tafel van Drie.csprojResolveAssemblyReference.cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 6\Solution\Tafel van Drie\obj\Debug\Tafel_van_Drie.Form1.resources
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 6\Solution\Tafel van Drie\obj\Debug\Tafel_van_Drie.Properties.Resources.resources
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 6\Solution\Tafel van Drie\obj\Debug\Tafel van Drie.csproj.GenerateResource.Cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 6\Solution\Tafel van Drie\obj\Debug\Tafel van Drie.csproj.CoreCompileInputs.cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 6\Solution\Tafel van Drie\obj\Debug\Tafel van Drie.exe
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 6\Solution\Tafel van Drie\obj\Debug\Tafel van Drie.pdb

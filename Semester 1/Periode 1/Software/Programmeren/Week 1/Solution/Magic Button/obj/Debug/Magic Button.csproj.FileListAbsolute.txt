@@ -1,0 +1,20 @@
+C:\Users\Bramv\source\repos\Toolkit\Magic Button\bin\Debug\Magic Button.exe.config
+C:\Users\Bramv\source\repos\Toolkit\Magic Button\bin\Debug\Magic Button.exe
+C:\Users\Bramv\source\repos\Toolkit\Magic Button\bin\Debug\Magic Button.pdb
+C:\Users\Bramv\source\repos\Toolkit\Magic Button\obj\Debug\Magic Button.csprojResolveAssemblyReference.cache
+C:\Users\Bramv\source\repos\Toolkit\Magic Button\obj\Debug\Magic_Button.Form1.resources
+C:\Users\Bramv\source\repos\Toolkit\Magic Button\obj\Debug\Magic_Button.Properties.Resources.resources
+C:\Users\Bramv\source\repos\Toolkit\Magic Button\obj\Debug\Magic Button.csproj.GenerateResource.Cache
+C:\Users\Bramv\source\repos\Toolkit\Magic Button\obj\Debug\Magic Button.csproj.CoreCompileInputs.cache
+C:\Users\Bramv\source\repos\Toolkit\Magic Button\obj\Debug\Magic Button.exe
+C:\Users\Bramv\source\repos\Toolkit\Magic Button\obj\Debug\Magic Button.pdb
+C:\Users\Bramv\Google Drive\School\Software\Programmeren\Week 1\Solution\Magic Button\bin\Debug\Magic Button.exe.config
+C:\Users\Bramv\Google Drive\School\Software\Programmeren\Week 1\Solution\Magic Button\bin\Debug\Magic Button.exe
+C:\Users\Bramv\Google Drive\School\Software\Programmeren\Week 1\Solution\Magic Button\bin\Debug\Magic Button.pdb
+C:\Users\Bramv\Google Drive\School\Software\Programmeren\Week 1\Solution\Magic Button\obj\Debug\Magic Button.csprojResolveAssemblyReference.cache
+C:\Users\Bramv\Google Drive\School\Software\Programmeren\Week 1\Solution\Magic Button\obj\Debug\Magic_Button.Form1.resources
+C:\Users\Bramv\Google Drive\School\Software\Programmeren\Week 1\Solution\Magic Button\obj\Debug\Magic_Button.Properties.Resources.resources
+C:\Users\Bramv\Google Drive\School\Software\Programmeren\Week 1\Solution\Magic Button\obj\Debug\Magic Button.csproj.GenerateResource.Cache
+C:\Users\Bramv\Google Drive\School\Software\Programmeren\Week 1\Solution\Magic Button\obj\Debug\Magic Button.csproj.CoreCompileInputs.cache
+C:\Users\Bramv\Google Drive\School\Software\Programmeren\Week 1\Solution\Magic Button\obj\Debug\Magic Button.exe
+C:\Users\Bramv\Google Drive\School\Software\Programmeren\Week 1\Solution\Magic Button\obj\Debug\Magic Button.pdb

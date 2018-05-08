@@ -1,0 +1,10 @@
+C:\Users\Bramv\source\repos\OIS11 Week 3\Dobbelsteen\bin\Debug\Dobbelsteen.exe.config
+C:\Users\Bramv\source\repos\OIS11 Week 3\Dobbelsteen\bin\Debug\Dobbelsteen.exe
+C:\Users\Bramv\source\repos\OIS11 Week 3\Dobbelsteen\bin\Debug\Dobbelsteen.pdb
+C:\Users\Bramv\source\repos\OIS11 Week 3\Dobbelsteen\obj\Debug\Dobbelsteen.Form1.resources
+C:\Users\Bramv\source\repos\OIS11 Week 3\Dobbelsteen\obj\Debug\Dobbelsteen.Properties.Resources.resources
+C:\Users\Bramv\source\repos\OIS11 Week 3\Dobbelsteen\obj\Debug\Dobbelsteen.csproj.GenerateResource.Cache
+C:\Users\Bramv\source\repos\OIS11 Week 3\Dobbelsteen\obj\Debug\Dobbelsteen.csproj.CoreCompileInputs.cache
+C:\Users\Bramv\source\repos\OIS11 Week 3\Dobbelsteen\obj\Debug\Dobbelsteen.exe
+C:\Users\Bramv\source\repos\OIS11 Week 3\Dobbelsteen\obj\Debug\Dobbelsteen.pdb
+C:\Users\Bramv\source\repos\OIS11 Week 3\Dobbelsteen\obj\Debug\Dobbelsteen.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 7\Galgje\bin\Debug\Galgje.exe.config
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 7\Galgje\bin\Debug\Galgje.exe
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 7\Galgje\bin\Debug\Galgje.pdb
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 7\Galgje\obj\Debug\Galgje.csprojResolveAssemblyReference.cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 7\Galgje\obj\Debug\Galgje.Form1.resources
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 7\Galgje\obj\Debug\Galgje.Properties.Resources.resources
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 7\Galgje\obj\Debug\Galgje.csproj.GenerateResource.Cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 7\Galgje\obj\Debug\Galgje.csproj.CoreCompileInputs.cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 7\Galgje\obj\Debug\Galgje.exe
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 7\Galgje\obj\Debug\Galgje.pdb

@@ -1,0 +1,20 @@
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 6\Boter-kaas-eieren tegen de computer\bin\Debug\Boter-kaas-eieren tegen de computer.exe.config
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 6\Boter-kaas-eieren tegen de computer\bin\Debug\Boter-kaas-eieren tegen de computer.exe
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 6\Boter-kaas-eieren tegen de computer\bin\Debug\Boter-kaas-eieren tegen de computer.pdb
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 6\Boter-kaas-eieren tegen de computer\obj\Debug\Boter-kaas-eieren tegen de computer.csprojResolveAssemblyReference.cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 6\Boter-kaas-eieren tegen de computer\obj\Debug\Boter_kaas_eieren_tegen_de_computer.Form1.resources
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 6\Boter-kaas-eieren tegen de computer\obj\Debug\Boter_kaas_eieren_tegen_de_computer.Properties.Resources.resources
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 6\Boter-kaas-eieren tegen de computer\obj\Debug\Boter-kaas-eieren tegen de computer.csproj.GenerateResource.Cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 6\Boter-kaas-eieren tegen de computer\obj\Debug\Boter-kaas-eieren tegen de computer.csproj.CoreCompileInputs.cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 6\Boter-kaas-eieren tegen de computer\obj\Debug\Boter-kaas-eieren tegen de computer.exe
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 6\Boter-kaas-eieren tegen de computer\obj\Debug\Boter-kaas-eieren tegen de computer.pdb
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 7\Boter-kaas-eieren tegen de computer\bin\Debug\Boter-kaas-eieren tegen de computer.exe.config
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 7\Boter-kaas-eieren tegen de computer\bin\Debug\Boter-kaas-eieren tegen de computer.exe
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 7\Boter-kaas-eieren tegen de computer\bin\Debug\Boter-kaas-eieren tegen de computer.pdb
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 7\Boter-kaas-eieren tegen de computer\obj\Debug\Boter-kaas-eieren tegen de computer.csprojResolveAssemblyReference.cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 7\Boter-kaas-eieren tegen de computer\obj\Debug\Boter_kaas_eieren_tegen_de_computer.Form1.resources
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 7\Boter-kaas-eieren tegen de computer\obj\Debug\Boter_kaas_eieren_tegen_de_computer.Properties.Resources.resources
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 7\Boter-kaas-eieren tegen de computer\obj\Debug\Boter-kaas-eieren tegen de computer.csproj.GenerateResource.Cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 7\Boter-kaas-eieren tegen de computer\obj\Debug\Boter-kaas-eieren tegen de computer.csproj.CoreCompileInputs.cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 7\Boter-kaas-eieren tegen de computer\obj\Debug\Boter-kaas-eieren tegen de computer.exe
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Software\Programmeren\Week 7\OIS11 Week 7\Boter-kaas-eieren tegen de computer\obj\Debug\Boter-kaas-eieren tegen de computer.pdb

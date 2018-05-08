@@ -1,0 +1,9 @@
+C:\Users\Bramv\source\repos\OIS11 Week 3\Index van e\bin\Debug\Index van e.exe.config
+C:\Users\Bramv\source\repos\OIS11 Week 3\Index van e\bin\Debug\Index van e.exe
+C:\Users\Bramv\source\repos\OIS11 Week 3\Index van e\bin\Debug\Index van e.pdb
+C:\Users\Bramv\source\repos\OIS11 Week 3\Index van e\obj\Debug\Index_van_e.Form1.resources
+C:\Users\Bramv\source\repos\OIS11 Week 3\Index van e\obj\Debug\Index_van_e.Properties.Resources.resources
+C:\Users\Bramv\source\repos\OIS11 Week 3\Index van e\obj\Debug\Index van e.csproj.GenerateResource.Cache
+C:\Users\Bramv\source\repos\OIS11 Week 3\Index van e\obj\Debug\Index van e.csproj.CoreCompileInputs.cache
+C:\Users\Bramv\source\repos\OIS11 Week 3\Index van e\obj\Debug\Index van e.exe
+C:\Users\Bramv\source\repos\OIS11 Week 3\Index van e\obj\Debug\Index van e.pdb

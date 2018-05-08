@@ -1,0 +1,10 @@
+C:\Users\Bramv\Desktop\oplevering\oplevering\bin\Debug\oplevering.exe.config
+C:\Users\Bramv\Desktop\oplevering\oplevering\bin\Debug\oplevering.exe
+C:\Users\Bramv\Desktop\oplevering\oplevering\bin\Debug\oplevering.pdb
+C:\Users\Bramv\Desktop\oplevering\oplevering\obj\Debug\oplevering.csprojResolveAssemblyReference.cache
+C:\Users\Bramv\Desktop\oplevering\oplevering\obj\Debug\oplevering.Form1.resources
+C:\Users\Bramv\Desktop\oplevering\oplevering\obj\Debug\oplevering.Properties.Resources.resources
+C:\Users\Bramv\Desktop\oplevering\oplevering\obj\Debug\oplevering.csproj.GenerateResource.Cache
+C:\Users\Bramv\Desktop\oplevering\oplevering\obj\Debug\oplevering.csproj.CoreCompileInputs.cache
+C:\Users\Bramv\Desktop\oplevering\oplevering\obj\Debug\oplevering.exe
+C:\Users\Bramv\Desktop\oplevering\oplevering\obj\Debug\oplevering.pdb
