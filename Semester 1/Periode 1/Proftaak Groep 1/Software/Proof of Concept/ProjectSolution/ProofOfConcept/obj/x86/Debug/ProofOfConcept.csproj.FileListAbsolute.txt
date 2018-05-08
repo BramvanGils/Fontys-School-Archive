@@ -1,0 +1,60 @@
+C:\Users\Bramv\Google Drive\School\Proftaak Groep 1\Ontwerp\Software\Proof of Concept\ProofOfConcept\ProofOfConcept\bin\Windows\x86\Debug\Content\BrickBlock.xnb
+C:\Users\Bramv\Google Drive\School\Proftaak Groep 1\Ontwerp\Software\Proof of Concept\ProofOfConcept\ProofOfConcept\bin\Windows\x86\Debug\Content\fireball.xnb
+C:\Users\Bramv\Google Drive\School\Proftaak Groep 1\Ontwerp\Software\Proof of Concept\ProofOfConcept\ProofOfConcept\bin\Windows\x86\Debug\Content\robot.xnb
+C:\Users\Bramv\Google Drive\School\Proftaak Groep 1\Ontwerp\Software\Proof of Concept\ProofOfConcept\ProofOfConcept\bin\Windows\x86\Debug\ProofOfConcept.exe
+C:\Users\Bramv\Google Drive\School\Proftaak Groep 1\Ontwerp\Software\Proof of Concept\ProofOfConcept\ProofOfConcept\bin\Windows\x86\Debug\ProofOfConcept.pdb
+C:\Users\Bramv\Google Drive\School\Proftaak Groep 1\Ontwerp\Software\Proof of Concept\ProofOfConcept\ProofOfConcept\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Bramv\Google Drive\School\Proftaak Groep 1\Ontwerp\Software\Proof of Concept\ProofOfConcept\ProofOfConcept\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Bramv\Google Drive\School\Proftaak Groep 1\Ontwerp\Software\Proof of Concept\ProofOfConcept\ProofOfConcept\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Bramv\Google Drive\School\Proftaak Groep 1\Ontwerp\Software\Proof of Concept\ProofOfConcept\ProofOfConcept\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Bramv\Google Drive\School\Proftaak Groep 1\Ontwerp\Software\Proof of Concept\ProofOfConcept\ProofOfConcept\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Bramv\Google Drive\School\Proftaak Groep 1\Ontwerp\Software\Proof of Concept\ProofOfConcept\ProofOfConcept\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Bramv\Google Drive\School\Proftaak Groep 1\Ontwerp\Software\Proof of Concept\ProofOfConcept\ProofOfConcept\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Bramv\Google Drive\School\Proftaak Groep 1\Ontwerp\Software\Proof of Concept\ProofOfConcept\ProofOfConcept\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Bramv\Google Drive\School\Proftaak Groep 1\Ontwerp\Software\Proof of Concept\ProofOfConcept\ProofOfConcept\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Bramv\Google Drive\School\Proftaak Groep 1\Ontwerp\Software\Proof of Concept\ProofOfConcept\ProofOfConcept\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Bramv\Google Drive\School\Proftaak Groep 1\Ontwerp\Software\Proof of Concept\ProofOfConcept\ProofOfConcept\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Bramv\Google Drive\School\Proftaak Groep 1\Ontwerp\Software\Proof of Concept\ProofOfConcept\ProofOfConcept\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Bramv\Google Drive\School\Proftaak Groep 1\Ontwerp\Software\Proof of Concept\ProofOfConcept\ProofOfConcept\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Bramv\Google Drive\School\Proftaak Groep 1\Ontwerp\Software\Proof of Concept\ProofOfConcept\ProofOfConcept\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Bramv\Google Drive\School\Proftaak Groep 1\Ontwerp\Software\Proof of Concept\ProofOfConcept\ProofOfConcept\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Bramv\Google Drive\School\Proftaak Groep 1\Ontwerp\Software\Proof of Concept\ProofOfConcept\ProofOfConcept\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Bramv\Google Drive\School\Proftaak Groep 1\Ontwerp\Software\Proof of Concept\ProofOfConcept\ProofOfConcept\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Bramv\Google Drive\School\Proftaak Groep 1\Ontwerp\Software\Proof of Concept\ProofOfConcept\ProofOfConcept\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Bramv\Google Drive\School\Proftaak Groep 1\Ontwerp\Software\Proof of Concept\ProofOfConcept\ProofOfConcept\obj\x86\Debug\ProofOfConcept.csprojResolveAssemblyReference.cache
+C:\Users\Bramv\Google Drive\School\Proftaak Groep 1\Ontwerp\Software\Proof of Concept\ProofOfConcept\ProofOfConcept\obj\x86\Debug\ProofOfConcept.csproj.CoreCompileInputs.cache
+C:\Users\Bramv\Google Drive\School\Proftaak Groep 1\Ontwerp\Software\Proof of Concept\ProofOfConcept\ProofOfConcept\obj\x86\Debug\ProofOfConcept.exe
+C:\Users\Bramv\Google Drive\School\Proftaak Groep 1\Ontwerp\Software\Proof of Concept\ProofOfConcept\ProofOfConcept\obj\x86\Debug\ProofOfConcept.pdb
+C:\Users\Bramv\Google Drive\School\Proftaak Groep 1\Ontwerp\Software\Proof of Concept\ProofOfConcept\ProofOfConcept\bin\Windows\x86\Debug\Content\desktop.ini
+C:\Users\Bramv\Google Drive\School\Proftaak Groep 1\Ontwerp\Software\Proof of Concept\ProofOfConcept\ProofOfConcept\bin\Windows\x86\Debug\Content\BackGround.xnb
+C:\Users\Bramv\Google Drive\School\Proftaak Groep 1\Ontwerp\Software\Proof of Concept\ProofOfConcept\ProofOfConcept\bin\Windows\x86\Debug\Content\defaultFont.xnb
+C:\Users\Bramv\Desktop\Proof of Concept\ProjectSolution\ProofOfConcept\bin\Windows\x86\Debug\Content\desktop.ini
+C:\Users\Bramv\Desktop\Proof of Concept\ProjectSolution\ProofOfConcept\bin\Windows\x86\Debug\Content\BackGround.xnb
+C:\Users\Bramv\Desktop\Proof of Concept\ProjectSolution\ProofOfConcept\bin\Windows\x86\Debug\Content\BrickBlock.xnb
+C:\Users\Bramv\Desktop\Proof of Concept\ProjectSolution\ProofOfConcept\bin\Windows\x86\Debug\Content\defaultFont.xnb
+C:\Users\Bramv\Desktop\Proof of Concept\ProjectSolution\ProofOfConcept\bin\Windows\x86\Debug\Content\fireball.xnb
+C:\Users\Bramv\Desktop\Proof of Concept\ProjectSolution\ProofOfConcept\bin\Windows\x86\Debug\Content\robot.xnb
+C:\Users\Bramv\Desktop\Proof of Concept\ProjectSolution\ProofOfConcept\bin\Windows\x86\Debug\ProofOfConcept.exe
+C:\Users\Bramv\Desktop\Proof of Concept\ProjectSolution\ProofOfConcept\bin\Windows\x86\Debug\ProofOfConcept.pdb
+C:\Users\Bramv\Desktop\Proof of Concept\ProjectSolution\ProofOfConcept\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Bramv\Desktop\Proof of Concept\ProjectSolution\ProofOfConcept\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Bramv\Desktop\Proof of Concept\ProjectSolution\ProofOfConcept\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Bramv\Desktop\Proof of Concept\ProjectSolution\ProofOfConcept\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Bramv\Desktop\Proof of Concept\ProjectSolution\ProofOfConcept\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Bramv\Desktop\Proof of Concept\ProjectSolution\ProofOfConcept\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Bramv\Desktop\Proof of Concept\ProjectSolution\ProofOfConcept\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Bramv\Desktop\Proof of Concept\ProjectSolution\ProofOfConcept\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Bramv\Desktop\Proof of Concept\ProjectSolution\ProofOfConcept\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Bramv\Desktop\Proof of Concept\ProjectSolution\ProofOfConcept\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Bramv\Desktop\Proof of Concept\ProjectSolution\ProofOfConcept\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Bramv\Desktop\Proof of Concept\ProjectSolution\ProofOfConcept\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Bramv\Desktop\Proof of Concept\ProjectSolution\ProofOfConcept\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Bramv\Desktop\Proof of Concept\ProjectSolution\ProofOfConcept\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Bramv\Desktop\Proof of Concept\ProjectSolution\ProofOfConcept\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Bramv\Desktop\Proof of Concept\ProjectSolution\ProofOfConcept\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Bramv\Desktop\Proof of Concept\ProjectSolution\ProofOfConcept\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Bramv\Desktop\Proof of Concept\ProjectSolution\ProofOfConcept\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Bramv\Desktop\Proof of Concept\ProjectSolution\ProofOfConcept\obj\x86\Debug\ProofOfConcept.csprojResolveAssemblyReference.cache
+C:\Users\Bramv\Desktop\Proof of Concept\ProjectSolution\ProofOfConcept\obj\x86\Debug\ProofOfConcept.csproj.CoreCompileInputs.cache
+C:\Users\Bramv\Desktop\Proof of Concept\ProjectSolution\ProofOfConcept\obj\x86\Debug\ProofOfConcept.exe
+C:\Users\Bramv\Desktop\Proof of Concept\ProjectSolution\ProofOfConcept\obj\x86\Debug\ProofOfConcept.pdb

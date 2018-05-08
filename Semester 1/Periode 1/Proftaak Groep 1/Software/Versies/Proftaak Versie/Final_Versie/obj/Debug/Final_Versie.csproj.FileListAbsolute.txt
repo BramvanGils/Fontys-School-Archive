@@ -1,0 +1,57 @@
+C:\Users\Bramv\Desktop\Final_Versie\bin\Debug\Final_Versie.exe.config
+C:\Users\Bramv\Desktop\Final_Versie\bin\Debug\Final_Versie.exe
+C:\Users\Bramv\Desktop\Final_Versie\bin\Debug\Final_Versie.pdb
+C:\Users\Bramv\Desktop\Final_Versie\obj\Debug\Final_Versie.Properties.Resources.resources
+C:\Users\Bramv\Desktop\Final_Versie\obj\Debug\Final_Versie.csproj.GenerateResource.Cache
+C:\Users\Bramv\Desktop\Final_Versie\obj\Debug\Final_Versie.csproj.CoreCompileInputs.cache
+C:\Users\Bramv\Desktop\Final_Versie\obj\Debug\Final_Versie.exe
+C:\Users\Bramv\Desktop\Final_Versie\obj\Debug\Final_Versie.pdb
+C:\Users\Bramv\Desktop\Final_Versie\obj\Debug\Final_Versie.GameInterface.resources
+C:\Users\Bramv\Desktop\Final_Versie\obj\Debug\Final_Versie.Instellingen.resources
+C:\Users\Bramv\Desktop\Final_Versie\obj\Debug\Final_Versie.Inventaris.resources
+C:\Users\Bramv\Desktop\Final_Versie\obj\Debug\Final_Versie.MainForm.resources
+C:\Users\Bramv\Desktop\Final_Versie\obj\Debug\Final_Versie.MainMenu.resources
+C:\Users\Bramv\Desktop\Final_Versie\obj\Debug\Final_Versie.PauzeMenu.resources
+C:\Users\Bramv\Desktop\Final_Versie\obj\Debug\Final_Versie.statestieken.resources
+C:\Users\Bramv\Desktop\Final_Versie\obj\Debug\Final_Versie.csprojResolveAssemblyReference.cache
+C:\Users\Bramv\Desktop\Final_Versie\bin\Debug\EV3WifiLib.dll
+C:\Users\Bramv\Desktop\Final_Versie\obj\Debug\Final_Versie.QuestInterface.resources
+C:\Users\Bramv\Desktop\Final_Versie\obj\Debug\Final_Versie.QuestLog.resources
+C:\Users\Bramv\Desktop\Proftaak Versie\Final_Versie\bin\Debug\Final_Versie.exe.config
+C:\Users\Bramv\Desktop\Proftaak Versie\Final_Versie\bin\Debug\Final_Versie.exe
+C:\Users\Bramv\Desktop\Proftaak Versie\Final_Versie\bin\Debug\Final_Versie.pdb
+C:\Users\Bramv\Desktop\Proftaak Versie\Final_Versie\bin\Debug\EV3WifiLib.dll
+C:\Users\Bramv\Desktop\Proftaak Versie\Final_Versie\obj\Debug\Final_Versie.csprojResolveAssemblyReference.cache
+C:\Users\Bramv\Desktop\Proftaak Versie\Final_Versie\obj\Debug\Final_Versie.GameInterface.resources
+C:\Users\Bramv\Desktop\Proftaak Versie\Final_Versie\obj\Debug\Final_Versie.Instellingen.resources
+C:\Users\Bramv\Desktop\Proftaak Versie\Final_Versie\obj\Debug\Final_Versie.Inventaris.resources
+C:\Users\Bramv\Desktop\Proftaak Versie\Final_Versie\obj\Debug\Final_Versie.Mainform.resources
+C:\Users\Bramv\Desktop\Proftaak Versie\Final_Versie\obj\Debug\Final_Versie.MainMenu.resources
+C:\Users\Bramv\Desktop\Proftaak Versie\Final_Versie\obj\Debug\Final_Versie.PauzeMenu.resources
+C:\Users\Bramv\Desktop\Proftaak Versie\Final_Versie\obj\Debug\Final_Versie.Properties.Resources.resources
+C:\Users\Bramv\Desktop\Proftaak Versie\Final_Versie\obj\Debug\Final_Versie.QuestInterface.resources
+C:\Users\Bramv\Desktop\Proftaak Versie\Final_Versie\obj\Debug\Final_Versie.QuestLog.resources
+C:\Users\Bramv\Desktop\Proftaak Versie\Final_Versie\obj\Debug\Final_Versie.statestieken.resources
+C:\Users\Bramv\Desktop\Proftaak Versie\Final_Versie\obj\Debug\Final_Versie.csproj.GenerateResource.Cache
+C:\Users\Bramv\Desktop\Proftaak Versie\Final_Versie\obj\Debug\Final_Versie.csproj.CoreCompileInputs.cache
+C:\Users\Bramv\Desktop\Proftaak Versie\Final_Versie\obj\Debug\Final_Versie.exe
+C:\Users\Bramv\Desktop\Proftaak Versie\Final_Versie\obj\Debug\Final_Versie.pdb
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Proftaak Groep 1\Software\Versies\Proftaak Versie\Final_Versie\bin\Debug\Final_Versie.exe.config
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Proftaak Groep 1\Software\Versies\Proftaak Versie\Final_Versie\bin\Debug\Final_Versie.exe
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Proftaak Groep 1\Software\Versies\Proftaak Versie\Final_Versie\bin\Debug\Final_Versie.pdb
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Proftaak Groep 1\Software\Versies\Proftaak Versie\Final_Versie\bin\Debug\EV3WifiLib.dll
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Proftaak Groep 1\Software\Versies\Proftaak Versie\Final_Versie\obj\Debug\Final_Versie.csprojResolveAssemblyReference.cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Proftaak Groep 1\Software\Versies\Proftaak Versie\Final_Versie\obj\Debug\Final_Versie.GameInterface.resources
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Proftaak Groep 1\Software\Versies\Proftaak Versie\Final_Versie\obj\Debug\Final_Versie.Instellingen.resources
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Proftaak Groep 1\Software\Versies\Proftaak Versie\Final_Versie\obj\Debug\Final_Versie.Inventaris.resources
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Proftaak Groep 1\Software\Versies\Proftaak Versie\Final_Versie\obj\Debug\Final_Versie.Mainform.resources
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Proftaak Groep 1\Software\Versies\Proftaak Versie\Final_Versie\obj\Debug\Final_Versie.MainMenu.resources
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Proftaak Groep 1\Software\Versies\Proftaak Versie\Final_Versie\obj\Debug\Final_Versie.PauzeMenu.resources
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Proftaak Groep 1\Software\Versies\Proftaak Versie\Final_Versie\obj\Debug\Final_Versie.Properties.Resources.resources
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Proftaak Groep 1\Software\Versies\Proftaak Versie\Final_Versie\obj\Debug\Final_Versie.QuestInterface.resources
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Proftaak Groep 1\Software\Versies\Proftaak Versie\Final_Versie\obj\Debug\Final_Versie.QuestLog.resources
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Proftaak Groep 1\Software\Versies\Proftaak Versie\Final_Versie\obj\Debug\Final_Versie.statestieken.resources
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Proftaak Groep 1\Software\Versies\Proftaak Versie\Final_Versie\obj\Debug\Final_Versie.csproj.GenerateResource.Cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Proftaak Groep 1\Software\Versies\Proftaak Versie\Final_Versie\obj\Debug\Final_Versie.csproj.CoreCompileInputs.cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Proftaak Groep 1\Software\Versies\Proftaak Versie\Final_Versie\obj\Debug\Final_Versie.exe
+C:\Users\Bramv\Google Drive\Semester 1 Periode 1\Proftaak Groep 1\Software\Versies\Proftaak Versie\Final_Versie\obj\Debug\Final_Versie.pdb

@@ -1,0 +1,10 @@
+C:\Users\Bramv\Desktop\TemporarySolution\Framework\bin\Debug\Framework.exe.config
+C:\Users\Bramv\Desktop\TemporarySolution\Framework\bin\Debug\Framework.exe
+C:\Users\Bramv\Desktop\TemporarySolution\Framework\bin\Debug\Framework.pdb
+C:\Users\Bramv\Desktop\TemporarySolution\Framework\obj\Debug\TempFrame.csprojResolveAssemblyReference.cache
+C:\Users\Bramv\Desktop\TemporarySolution\Framework\obj\Debug\Framework.MainFrame.resources
+C:\Users\Bramv\Desktop\TemporarySolution\Framework\obj\Debug\Framework.Properties.Resources.resources
+C:\Users\Bramv\Desktop\TemporarySolution\Framework\obj\Debug\TempFrame.csproj.GenerateResource.Cache
+C:\Users\Bramv\Desktop\TemporarySolution\Framework\obj\Debug\TempFrame.csproj.CoreCompileInputs.cache
+C:\Users\Bramv\Desktop\TemporarySolution\Framework\obj\Debug\Framework.exe
+C:\Users\Bramv\Desktop\TemporarySolution\Framework\obj\Debug\Framework.pdb

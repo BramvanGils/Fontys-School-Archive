@@ -1,0 +1,16 @@
+C:\Users\Bramv\Desktop\Edu-Bot Desktop Application\Edu-Bot Desktop Application\obj\Debug\Edu-Bot Desktop Application.csprojResolveAssemblyReference.cache
+C:\Users\Bramv\Desktop\Edu-Bot Desktop Application\Edu-Bot Desktop Application\obj\Debug\Edu_Bot_Desktop_Application.Properties.Resources.resources
+C:\Users\Bramv\Desktop\Edu-Bot Desktop Application\Edu-Bot Desktop Application\obj\Debug\Edu-Bot Desktop Application.csproj.GenerateResource.Cache
+C:\Users\Bramv\Desktop\Edu-Bot Desktop Application\Edu-Bot Desktop Application\obj\Debug\Edu-Bot Desktop Application.csproj.CoreCompileInputs.cache
+C:\Users\Bramv\Desktop\Edu-Bot Desktop Application\Edu-Bot Desktop Application\bin\Debug\Edu-Bot Desktop Application.exe.config
+C:\Users\Bramv\Desktop\Edu-Bot Desktop Application\Edu-Bot Desktop Application\bin\Debug\Edu-Bot Desktop Application.exe
+C:\Users\Bramv\Desktop\Edu-Bot Desktop Application\Edu-Bot Desktop Application\bin\Debug\Edu-Bot Desktop Application.pdb
+C:\Users\Bramv\Desktop\Edu-Bot Desktop Application\Edu-Bot Desktop Application\obj\Debug\Edu-Bot Desktop Application.exe
+C:\Users\Bramv\Desktop\Edu-Bot Desktop Application\Edu-Bot Desktop Application\obj\Debug\Edu-Bot Desktop Application.pdb
+C:\Users\Bramv\Desktop\Edu-Bot Desktop Application\Edu-Bot Desktop Application\obj\Debug\Game_Interface.GameInterface.resources
+C:\Users\Bramv\Desktop\Edu-Bot Desktop Application\Edu-Bot Desktop Application\obj\Debug\Instellingen.Instellingen.resources
+C:\Users\Bramv\Desktop\Edu-Bot Desktop Application\Edu-Bot Desktop Application\obj\Debug\Edubot.Mainmenu.resources
+C:\Users\Bramv\Desktop\Edu-Bot Desktop Application\Edu-Bot Desktop Application\obj\Debug\pauzemenu.Pauzemenu.resources
+C:\Users\Bramv\Desktop\Edu-Bot Desktop Application\Edu-Bot Desktop Application\obj\Debug\Robot_instellingen.Robotinstellingen.resources
+C:\Users\Bramv\Desktop\Edu-Bot Desktop Application\Edu-Bot Desktop Application\obj\Debug\Inventory.Inventaris.resources
+C:\Users\Bramv\Desktop\Edu-Bot Desktop Application\Edu-Bot Desktop Application\obj\Debug\Stats.Statestieken.resources
