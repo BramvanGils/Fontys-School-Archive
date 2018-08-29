@@ -1,0 +1,12 @@
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Projects\Databases\Database Prototype\Database Prototype\bin\Debug\Database.mdf
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Projects\Databases\Database Prototype\Database Prototype\bin\Debug\Database_log.ldf
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Projects\Databases\Database Prototype\Database Prototype\bin\Debug\Database Prototype.exe.config
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Projects\Databases\Database Prototype\Database Prototype\bin\Debug\Database Prototype.exe
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Projects\Databases\Database Prototype\Database Prototype\bin\Debug\Database Prototype.pdb
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Projects\Databases\Database Prototype\Database Prototype\obj\Debug\Database Prototype.csprojAssemblyReference.cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Projects\Databases\Database Prototype\Database Prototype\obj\Debug\Database_Prototype.FormMain.resources
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Projects\Databases\Database Prototype\Database Prototype\obj\Debug\Database_Prototype.Properties.Resources.resources
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Projects\Databases\Database Prototype\Database Prototype\obj\Debug\Database Prototype.csproj.GenerateResource.cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Projects\Databases\Database Prototype\Database Prototype\obj\Debug\Database Prototype.csproj.CoreCompileInputs.cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Projects\Databases\Database Prototype\Database Prototype\obj\Debug\Database Prototype.exe
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Projects\Databases\Database Prototype\Database Prototype\obj\Debug\Database Prototype.pdb

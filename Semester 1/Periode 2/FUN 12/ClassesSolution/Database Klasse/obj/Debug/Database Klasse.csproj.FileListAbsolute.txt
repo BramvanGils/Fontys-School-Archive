@@ -1,0 +1,10 @@
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Database Klasse\bin\Debug\Database Klasse.exe.config
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Database Klasse\bin\Debug\Database Klasse.exe
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Database Klasse\bin\Debug\Database Klasse.pdb
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Database Klasse\obj\Debug\Database Klasse.csprojResolveAssemblyReference.cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Database Klasse\obj\Debug\Database_Klasse.MainForm.resources
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Database Klasse\obj\Debug\Database_Klasse.Properties.Resources.resources
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Database Klasse\obj\Debug\Database Klasse.csproj.GenerateResource.Cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Database Klasse\obj\Debug\Database Klasse.csproj.CoreCompileInputs.cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Database Klasse\obj\Debug\Database Klasse.exe
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Database Klasse\obj\Debug\Database Klasse.pdb

@@ -1,0 +1,10 @@
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\OIT 12\Module 2\Module_2_LivingColorsLamp\LivingColorRemoteControl\LivingColorRemoteControl\bin\Debug\LivingColorRemoteControl.exe.config
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\OIT 12\Module 2\Module_2_LivingColorsLamp\LivingColorRemoteControl\LivingColorRemoteControl\bin\Debug\LivingColorRemoteControl.exe
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\OIT 12\Module 2\Module_2_LivingColorsLamp\LivingColorRemoteControl\LivingColorRemoteControl\bin\Debug\LivingColorRemoteControl.pdb
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\OIT 12\Module 2\Module_2_LivingColorsLamp\LivingColorRemoteControl\LivingColorRemoteControl\obj\Debug\LivingColorRemoteControl.csprojAssemblyReference.cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\OIT 12\Module 2\Module_2_LivingColorsLamp\LivingColorRemoteControl\LivingColorRemoteControl\obj\Debug\LivingColorRemoteControl.RemoteControlForm.resources
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\OIT 12\Module 2\Module_2_LivingColorsLamp\LivingColorRemoteControl\LivingColorRemoteControl\obj\Debug\LivingColorRemoteControl.Properties.Resources.resources
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\OIT 12\Module 2\Module_2_LivingColorsLamp\LivingColorRemoteControl\LivingColorRemoteControl\obj\Debug\LivingColorRemoteControl.csproj.GenerateResource.cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\OIT 12\Module 2\Module_2_LivingColorsLamp\LivingColorRemoteControl\LivingColorRemoteControl\obj\Debug\LivingColorRemoteControl.csproj.CoreCompileInputs.cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\OIT 12\Module 2\Module_2_LivingColorsLamp\LivingColorRemoteControl\LivingColorRemoteControl\obj\Debug\LivingColorRemoteControl.exe
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\OIT 12\Module 2\Module_2_LivingColorsLamp\LivingColorRemoteControl\LivingColorRemoteControl\obj\Debug\LivingColorRemoteControl.pdb

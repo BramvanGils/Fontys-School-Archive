@@ -1,0 +1,11 @@
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Willekeurig Getal\bin\Debug\Willekeurig Getal.exe.config
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Willekeurig Getal\bin\Debug\Willekeurig Getal.exe
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Willekeurig Getal\bin\Debug\Willekeurig Getal.pdb
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Willekeurig Getal\obj\Debug\Willekeurig_Getal.Form1.resources
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Willekeurig Getal\obj\Debug\Willekeurig_Getal.Properties.Resources.resources
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Willekeurig Getal\obj\Debug\Willekeurig Getal.csproj.GenerateResource.Cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Willekeurig Getal\obj\Debug\Willekeurig Getal.csproj.CoreCompileInputs.cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Willekeurig Getal\obj\Debug\Willekeurig Getal.exe
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Willekeurig Getal\obj\Debug\Willekeurig Getal.pdb
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Willekeurig Getal\obj\Debug\Willekeurig_Getal.MessageBox.resources
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Willekeurig Getal\obj\Debug\Willekeurig Getal.csprojResolveAssemblyReference.cache

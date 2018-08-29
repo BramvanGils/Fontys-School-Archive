@@ -1,0 +1,9 @@
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Strandbal\obj\Debug\Strandbal.MainForm.resources
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Strandbal\obj\Debug\Strandbal.Properties.Resources.resources
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Strandbal\obj\Debug\Strandbal.csproj.GenerateResource.cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Strandbal\obj\Debug\Strandbal.csproj.CoreCompileInputs.cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Strandbal\bin\Debug\Strandbal.exe.config
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Strandbal\bin\Debug\Strandbal.exe
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Strandbal\bin\Debug\Strandbal.pdb
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Strandbal\obj\Debug\Strandbal.exe
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Strandbal\obj\Debug\Strandbal.pdb

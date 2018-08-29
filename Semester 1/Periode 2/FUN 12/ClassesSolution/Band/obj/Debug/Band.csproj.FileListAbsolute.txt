@@ -1,0 +1,10 @@
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Band\bin\Debug\Band.exe.config
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Band\bin\Debug\Band.exe
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Band\bin\Debug\Band.pdb
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Band\obj\Debug\Band.csprojResolveAssemblyReference.cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Band\obj\Debug\Band.MainForm.resources
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Band\obj\Debug\Band.Properties.Resources.resources
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Band\obj\Debug\Band.csproj.GenerateResource.cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Band\obj\Debug\Band.csproj.CoreCompileInputs.cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Band\obj\Debug\Band.exe
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Band\obj\Debug\Band.pdb

@@ -1,0 +1,10 @@
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\TekstPlakker\bin\Debug\TekstPlakker.exe.config
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\TekstPlakker\bin\Debug\TekstPlakker.exe
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\TekstPlakker\bin\Debug\TekstPlakker.pdb
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\TekstPlakker\obj\Debug\TekstPlakker.csprojResolveAssemblyReference.cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\TekstPlakker\obj\Debug\TekstPlakker.MainForm.resources
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\TekstPlakker\obj\Debug\TekstPlakker.Properties.Resources.resources
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\TekstPlakker\obj\Debug\TekstPlakker.csproj.GenerateResource.Cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\TekstPlakker\obj\Debug\TekstPlakker.csproj.CoreCompileInputs.cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\TekstPlakker\obj\Debug\TekstPlakker.exe
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\TekstPlakker\obj\Debug\TekstPlakker.pdb

@@ -1,0 +1,10 @@
+C:\Users\Bramv\Desktop\Onderzeërs\Onderzeërs\bin\Debug\Onderzeërs.exe.config
+C:\Users\Bramv\Desktop\Onderzeërs\Onderzeërs\bin\Debug\Onderzeërs.exe
+C:\Users\Bramv\Desktop\Onderzeërs\Onderzeërs\bin\Debug\Onderzeërs.pdb
+C:\Users\Bramv\Desktop\Onderzeërs\Onderzeërs\obj\Debug\Onderzeërs.csprojResolveAssemblyReference.cache
+C:\Users\Bramv\Desktop\Onderzeërs\Onderzeërs\obj\Debug\Onderzeërs.Interface.resources
+C:\Users\Bramv\Desktop\Onderzeërs\Onderzeërs\obj\Debug\Onderzeërs.Properties.Resources.resources
+C:\Users\Bramv\Desktop\Onderzeërs\Onderzeërs\obj\Debug\Onderzeërs.csproj.GenerateResource.cache
+C:\Users\Bramv\Desktop\Onderzeërs\Onderzeërs\obj\Debug\Onderzeërs.csproj.CoreCompileInputs.cache
+C:\Users\Bramv\Desktop\Onderzeërs\Onderzeërs\obj\Debug\Onderzeërs.exe
+C:\Users\Bramv\Desktop\Onderzeërs\Onderzeërs\obj\Debug\Onderzeërs.pdb

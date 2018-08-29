@@ -1,0 +1,10 @@
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\OIS 12\OIS12\BankRekening\bin\Debug\BankRekening.exe.config
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\OIS 12\OIS12\BankRekening\bin\Debug\BankRekening.exe
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\OIS 12\OIS12\BankRekening\bin\Debug\BankRekening.pdb
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\OIS 12\OIS12\BankRekening\obj\Debug\BankRekening.csprojResolveAssemblyReference.cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\OIS 12\OIS12\BankRekening\obj\Debug\BankRekening.BankrekeningForm.resources
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\OIS 12\OIS12\BankRekening\obj\Debug\BankRekening.Properties.Resources.resources
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\OIS 12\OIS12\BankRekening\obj\Debug\BankRekening.csproj.GenerateResource.Cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\OIS 12\OIS12\BankRekening\obj\Debug\BankRekening.csproj.CoreCompileInputs.cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\OIS 12\OIS12\BankRekening\obj\Debug\BankRekening.exe
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\OIS 12\OIS12\BankRekening\obj\Debug\BankRekening.pdb

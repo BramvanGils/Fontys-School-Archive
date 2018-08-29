@@ -1,0 +1,10 @@
+C:\Users\Bramv\Desktop\OISFileHandeling\OISFileHandeling\bin\Debug\OISFileHandeling.exe.config
+C:\Users\Bramv\Desktop\OISFileHandeling\OISFileHandeling\bin\Debug\OISFileHandeling.exe
+C:\Users\Bramv\Desktop\OISFileHandeling\OISFileHandeling\bin\Debug\OISFileHandeling.pdb
+C:\Users\Bramv\Desktop\OISFileHandeling\OISFileHandeling\obj\Debug\OISFileHandeling.csprojAssemblyReference.cache
+C:\Users\Bramv\Desktop\OISFileHandeling\OISFileHandeling\obj\Debug\OISFileHandeling.Form1.resources
+C:\Users\Bramv\Desktop\OISFileHandeling\OISFileHandeling\obj\Debug\OISFileHandeling.Properties.Resources.resources
+C:\Users\Bramv\Desktop\OISFileHandeling\OISFileHandeling\obj\Debug\OISFileHandeling.csproj.GenerateResource.cache
+C:\Users\Bramv\Desktop\OISFileHandeling\OISFileHandeling\obj\Debug\OISFileHandeling.csproj.CoreCompileInputs.cache
+C:\Users\Bramv\Desktop\OISFileHandeling\OISFileHandeling\obj\Debug\OISFileHandeling.exe
+C:\Users\Bramv\Desktop\OISFileHandeling\OISFileHandeling\obj\Debug\OISFileHandeling.pdb

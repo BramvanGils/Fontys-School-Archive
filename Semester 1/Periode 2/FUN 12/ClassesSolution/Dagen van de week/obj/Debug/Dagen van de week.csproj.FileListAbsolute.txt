@@ -1,0 +1,10 @@
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Dagen van de week\bin\Debug\Dagen van de week.exe.config
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Dagen van de week\bin\Debug\Dagen van de week.exe
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Dagen van de week\bin\Debug\Dagen van de week.pdb
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Dagen van de week\obj\Debug\Dagen van de week.csprojResolveAssemblyReference.cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Dagen van de week\obj\Debug\Dagen_van_de_week.Form1.resources
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Dagen van de week\obj\Debug\Dagen_van_de_week.Properties.Resources.resources
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Dagen van de week\obj\Debug\Dagen van de week.csproj.GenerateResource.Cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Dagen van de week\obj\Debug\Dagen van de week.csproj.CoreCompileInputs.cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Dagen van de week\obj\Debug\Dagen van de week.exe
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Classes\ClassesSolution\Dagen van de week\obj\Debug\Dagen van de week.pdb

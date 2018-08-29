@@ -1,0 +1,35 @@
+SHIFT REGISTER -----------------------------------------------------
+1 : QB (Output 2)
+2 : QC (Output 3)
+3 : QD (Output 4)
+4 : QE (Output 5)
+5 : QF (Output 6)
+6 : QG (Output 7)
+7 : QH (Output 8)
+8 : GND (Ground)
+9 : QH (DATA OUT) (THE DATA OUTPUT)
+10: SRCLR (CLEAR) (LOW = CLEAR)
+11: SRCLK (CLOCK) ()
+12: RCLK (LATCH) ()
+13: OE (BLANK) (IF LOW ALL OUTPUT ENABLED)
+14: SER (DATA IN)
+15: QA (Output 1)
+16: VCC (+5V)
+
+LCD DISPLAY -------------------------------------------------------
+1 : VSS (GND)
+2 : VDD (5V+)
+3 : VO (Adjust Contrast)
+4 : RS (Register Select (COMAND 0/CHARACTER 5))
+5 : RW (READ 5/ WRITE 0)
+6 : E (Switch (HIGH => LOW = Execute))
+7 : D0
+8 : D1
+9 : D2
+10: D3
+11: D4
+12: D5
+13: D6
+14: D7
+15: BL+ (Backlight Anode)
+16: BL- (Backlight Kathode)

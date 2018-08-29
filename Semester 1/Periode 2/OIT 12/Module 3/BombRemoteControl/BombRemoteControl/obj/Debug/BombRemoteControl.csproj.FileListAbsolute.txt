@@ -1,0 +1,10 @@
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\OIT 12\Module 3\BombRemoteControl\BombRemoteControl\bin\Debug\BombRemoteControl.exe.config
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\OIT 12\Module 3\BombRemoteControl\BombRemoteControl\bin\Debug\BombRemoteControl.exe
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\OIT 12\Module 3\BombRemoteControl\BombRemoteControl\bin\Debug\BombRemoteControl.pdb
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\OIT 12\Module 3\BombRemoteControl\BombRemoteControl\obj\Debug\BombRemoteControl.csprojAssemblyReference.cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\OIT 12\Module 3\BombRemoteControl\BombRemoteControl\obj\Debug\BombRemoteControl.Interface.resources
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\OIT 12\Module 3\BombRemoteControl\BombRemoteControl\obj\Debug\BombRemoteControl.Properties.Resources.resources
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\OIT 12\Module 3\BombRemoteControl\BombRemoteControl\obj\Debug\BombRemoteControl.csproj.GenerateResource.cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\OIT 12\Module 3\BombRemoteControl\BombRemoteControl\obj\Debug\BombRemoteControl.csproj.CoreCompileInputs.cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\OIT 12\Module 3\BombRemoteControl\BombRemoteControl\obj\Debug\BombRemoteControl.exe
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\OIT 12\Module 3\BombRemoteControl\BombRemoteControl\obj\Debug\BombRemoteControl.pdb

@@ -1,0 +1,10 @@
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/try-catch
+https://stackoverflow.com/questions/2706500/how-do-i-generate-a-random-int-number-in-c
+https://social.msdn.microsoft.com/Forums/en-US/7ec0fe74-3839-438a-80bf-dd2db3c4492b/how-to-add-new-line-in-messagebox?forum=Vsexpressvcs
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/
+https://www.dotnetperls.com/stringbuilder
+https://www.dotnetperls.com/random-lowercase-letter
+-------------------------------------------------------------------------------------------------------------------
+https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2013/jj171024(v=vs.120)
+https://stackoverflow.com/questions/2163829/how-do-i-rotate-a-picture-in-winforms
+

@@ -1,0 +1,11 @@
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\OIS 12\OIS12\Box Applicatie\Box Applicatie\obj\Debug\Box Applicatie.csprojResolveAssemblyReference.cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\OIS 12\OIS12\Box Applicatie\Box Applicatie\obj\Debug\Box_Applicatie.Properties.Resources.resources
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\OIS 12\OIS12\Box Applicatie\Box Applicatie\obj\Debug\Box Applicatie.csproj.GenerateResource.cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\OIS 12\OIS12\Box Applicatie\Box Applicatie\obj\Debug\Box Applicatie.csproj.CoreCompileInputs.cache
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\OIS 12\OIS12\Box Applicatie\Box Applicatie\bin\Debug\Box Applicatie.exe.config
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\OIS 12\OIS12\Box Applicatie\Box Applicatie\bin\Debug\Box Applicatie.exe
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\OIS 12\OIS12\Box Applicatie\Box Applicatie\bin\Debug\Box Applicatie.pdb
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\OIS 12\OIS12\Box Applicatie\Box Applicatie\obj\Debug\Box Applicatie.exe
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\OIS 12\OIS12\Box Applicatie\Box Applicatie\obj\Debug\Box Applicatie.pdb
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\OIS 12\OIS12\Box Applicatie\Box Applicatie\obj\Debug\Box_Applicatie.Menu.resources
+C:\Users\Bramv\Google Drive\Semester 1 Periode 2\OIS 12\OIS12\Box Applicatie\Box Applicatie\obj\Debug\Box_Applicatie.Wedstrijd.resources
