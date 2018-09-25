@@ -8,5 +8,7 @@ namespace Semester_2_Individuele_Opdracht.Interfaces
 {
     interface IDetailsContext
     {
+        string GetTitle(int Id);
+        string GetDescription(int Id);
     }
 }

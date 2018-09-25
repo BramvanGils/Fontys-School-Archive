@@ -35,6 +35,7 @@
             // 
             // DescriptionBox
             // 
+            this.DescriptionBox.Enabled = false;
             this.DescriptionBox.Location = new System.Drawing.Point(12, 61);
             this.DescriptionBox.Name = "DescriptionBox";
             this.DescriptionBox.Size = new System.Drawing.Size(399, 377);
@@ -58,6 +59,7 @@
             this.PlayButton.TabIndex = 2;
             this.PlayButton.Text = "Play";
             this.PlayButton.UseVisualStyleBackColor = true;
+            this.PlayButton.Click += new System.EventHandler(this.PlayButton_Click);
             // 
             // DetailsForm
             // 

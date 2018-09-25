@@ -74,7 +74,6 @@
     <Compile Include="DataClasses\Item.cs" />
     <Compile Include="DataClasses\QuestDetails.cs" />
     <Compile Include="DataClasses\TextComponent.cs" />
-    <Compile Include="FormHandler.cs" />
     <Compile Include="Forms\CrossroadsForm.cs">
       <SubType>Form</SubType>
     </Compile>
