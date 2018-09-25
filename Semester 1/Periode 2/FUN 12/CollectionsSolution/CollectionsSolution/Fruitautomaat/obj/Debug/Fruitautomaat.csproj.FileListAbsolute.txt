@@ -8,3 +8,13 @@ C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Projects\CollectionsSolu
 C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Projects\CollectionsSolution\CollectionsSolution\Fruitautomaat\obj\Debug\Fruitautomaat.csproj.CoreCompileInputs.cache
 C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Projects\CollectionsSolution\CollectionsSolution\Fruitautomaat\obj\Debug\Fruitautomaat.exe
 C:\Users\Bramv\Google Drive\Semester 1 Periode 2\FUN 12\Projects\CollectionsSolution\CollectionsSolution\Fruitautomaat\obj\Debug\Fruitautomaat.pdb
+D:\Git Projects\Fontys-School-Archive\Semester 1\Periode 2\FUN 12\CollectionsSolution\CollectionsSolution\Fruitautomaat\bin\Debug\Fruitautomaat.exe.config
+D:\Git Projects\Fontys-School-Archive\Semester 1\Periode 2\FUN 12\CollectionsSolution\CollectionsSolution\Fruitautomaat\bin\Debug\Fruitautomaat.exe
+D:\Git Projects\Fontys-School-Archive\Semester 1\Periode 2\FUN 12\CollectionsSolution\CollectionsSolution\Fruitautomaat\bin\Debug\Fruitautomaat.pdb
+D:\Git Projects\Fontys-School-Archive\Semester 1\Periode 2\FUN 12\CollectionsSolution\CollectionsSolution\Fruitautomaat\obj\Debug\Fruitautomaat.csprojAssemblyReference.cache
+D:\Git Projects\Fontys-School-Archive\Semester 1\Periode 2\FUN 12\CollectionsSolution\CollectionsSolution\Fruitautomaat\obj\Debug\Fruitautomaat.FruitAutomaat.resources
+D:\Git Projects\Fontys-School-Archive\Semester 1\Periode 2\FUN 12\CollectionsSolution\CollectionsSolution\Fruitautomaat\obj\Debug\Fruitautomaat.Properties.Resources.resources
+D:\Git Projects\Fontys-School-Archive\Semester 1\Periode 2\FUN 12\CollectionsSolution\CollectionsSolution\Fruitautomaat\obj\Debug\Fruitautomaat.csproj.GenerateResource.cache
+D:\Git Projects\Fontys-School-Archive\Semester 1\Periode 2\FUN 12\CollectionsSolution\CollectionsSolution\Fruitautomaat\obj\Debug\Fruitautomaat.csproj.CoreCompileInputs.cache
+D:\Git Projects\Fontys-School-Archive\Semester 1\Periode 2\FUN 12\CollectionsSolution\CollectionsSolution\Fruitautomaat\obj\Debug\Fruitautomaat.exe
+D:\Git Projects\Fontys-School-Archive\Semester 1\Periode 2\FUN 12\CollectionsSolution\CollectionsSolution\Fruitautomaat\obj\Debug\Fruitautomaat.pdb

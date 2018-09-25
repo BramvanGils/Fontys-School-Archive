@@ -90,7 +90,7 @@ namespace Fruitautomaat
                 GenerateRandomValues();
                 test++;
             }
-            while (false);
+            while (CompareArrays());
 
             DrawRows(0);
         }

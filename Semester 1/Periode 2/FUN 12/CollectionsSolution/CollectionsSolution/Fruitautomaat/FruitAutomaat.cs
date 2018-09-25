@@ -14,7 +14,7 @@ namespace Fruitautomaat
     {
         // Create object arrays
         public Icon[] Icons = new Icon[10];
-        public Row[] Rows = new Row[7];
+        public Row[] Rows = new Row[3];
 
         // Create a Button object
         private Button dynamicButton = new Button();
@@ -37,7 +37,7 @@ namespace Fruitautomaat
             Icons[6] = new Icon("Bar", 50, 15);
             Icons[7] = new Icon("Seven", 100, 10);
             Icons[8] = new Icon("Big win", 200, 5);
-            Icons[9] = new Icon("Guido", 1000, 1);
+            Icons[9] = new Icon("Guido", 1000, 100);
 
             // Set all Rows
             for (int i = 0; i < Rows.Length; i++)
