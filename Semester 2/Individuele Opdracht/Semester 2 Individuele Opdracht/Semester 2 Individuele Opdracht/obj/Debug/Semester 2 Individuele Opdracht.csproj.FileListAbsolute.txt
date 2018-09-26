@@ -10,3 +10,15 @@ C:\Users\Bramv\Documents\GitHub\Fontys-School-Archive\Semester 2\Individuele Opd
 C:\Users\Bramv\Documents\GitHub\Fontys-School-Archive\Semester 2\Individuele Opdracht\Semester 2 Individuele Opdracht\Semester 2 Individuele Opdracht\obj\Debug\Semester 2 Individuele Opdracht.csproj.CoreCompileInputs.cache
 C:\Users\Bramv\Documents\GitHub\Fontys-School-Archive\Semester 2\Individuele Opdracht\Semester 2 Individuele Opdracht\Semester 2 Individuele Opdracht\obj\Debug\Semester 2 Individuele Opdracht.exe
 C:\Users\Bramv\Documents\GitHub\Fontys-School-Archive\Semester 2\Individuele Opdracht\Semester 2 Individuele Opdracht\Semester 2 Individuele Opdracht\obj\Debug\Semester 2 Individuele Opdracht.pdb
+D:\Git Projects\Fontys-School-Archive\Semester 2\Individuele Opdracht\Semester 2 Individuele Opdracht\Semester 2 Individuele Opdracht\bin\Debug\RPG_Database.mdf
+D:\Git Projects\Fontys-School-Archive\Semester 2\Individuele Opdracht\Semester 2 Individuele Opdracht\Semester 2 Individuele Opdracht\bin\Debug\RPG_Database_log.ldf
+D:\Git Projects\Fontys-School-Archive\Semester 2\Individuele Opdracht\Semester 2 Individuele Opdracht\Semester 2 Individuele Opdracht\bin\Debug\Semester 2 Individuele Opdracht.exe.config
+D:\Git Projects\Fontys-School-Archive\Semester 2\Individuele Opdracht\Semester 2 Individuele Opdracht\Semester 2 Individuele Opdracht\bin\Debug\Semester 2 Individuele Opdracht.exe
+D:\Git Projects\Fontys-School-Archive\Semester 2\Individuele Opdracht\Semester 2 Individuele Opdracht\Semester 2 Individuele Opdracht\bin\Debug\Semester 2 Individuele Opdracht.pdb
+D:\Git Projects\Fontys-School-Archive\Semester 2\Individuele Opdracht\Semester 2 Individuele Opdracht\Semester 2 Individuele Opdracht\obj\Debug\Semester 2 Individuele Opdracht.csprojAssemblyReference.cache
+D:\Git Projects\Fontys-School-Archive\Semester 2\Individuele Opdracht\Semester 2 Individuele Opdracht\Semester 2 Individuele Opdracht\obj\Debug\Semester_2_Individuele_Opdracht.Forms.DetailsForm.resources
+D:\Git Projects\Fontys-School-Archive\Semester 2\Individuele Opdracht\Semester 2 Individuele Opdracht\Semester 2 Individuele Opdracht\obj\Debug\Semester_2_Individuele_Opdracht.Properties.Resources.resources
+D:\Git Projects\Fontys-School-Archive\Semester 2\Individuele Opdracht\Semester 2 Individuele Opdracht\Semester 2 Individuele Opdracht\obj\Debug\Semester 2 Individuele Opdracht.csproj.GenerateResource.cache
+D:\Git Projects\Fontys-School-Archive\Semester 2\Individuele Opdracht\Semester 2 Individuele Opdracht\Semester 2 Individuele Opdracht\obj\Debug\Semester 2 Individuele Opdracht.csproj.CoreCompileInputs.cache
+D:\Git Projects\Fontys-School-Archive\Semester 2\Individuele Opdracht\Semester 2 Individuele Opdracht\Semester 2 Individuele Opdracht\obj\Debug\Semester 2 Individuele Opdracht.exe
+D:\Git Projects\Fontys-School-Archive\Semester 2\Individuele Opdracht\Semester 2 Individuele Opdracht\Semester 2 Individuele Opdracht\obj\Debug\Semester 2 Individuele Opdracht.pdb
